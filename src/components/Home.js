@@ -2,11 +2,13 @@ import React from "react";
 
 import styled from "styled-components";
 import ImageSlider from "./ImageSlider";
+import Viewers from "./Viewers";
 
 const Home = () => {
   return (
     <MainContainer>
       <ImageSlider />
+      <Viewers />
     </MainContainer>
   );
 };
