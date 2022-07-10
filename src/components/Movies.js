@@ -30,6 +30,31 @@ const Movies = () => {
             alt=""
           />
         </Wrap>
+
+        <Wrap>
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMyfYecoIsc_td1T3S3cr7MMhBOLRCqtUf-3HQ8Jv5eZSx0V4nt7xCOXfezt38MNuFAs&usqp=CAU"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMyfYecoIsc_td1T3S3cr7MMhBOLRCqtUf-3HQ8Jv5eZSx0V4nt7xCOXfezt38MNuFAs&usqp=CAU"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMyfYecoIsc_td1T3S3cr7MMhBOLRCqtUf-3HQ8Jv5eZSx0V4nt7xCOXfezt38MNuFAs&usqp=CAU"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMyfYecoIsc_td1T3S3cr7MMhBOLRCqtUf-3HQ8Jv5eZSx0V4nt7xCOXfezt38MNuFAs&usqp=CAU"
+            alt=""
+          />
+        </Wrap>
       </Content>
     </MoviesContainer>
   );
